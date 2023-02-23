@@ -1,17 +1,17 @@
 #include "main.h"
 /**
- * pritn_numbers - prints numbers
+ * print_numbers - prints numbers
  * @void: Return nothing
  * Return: nothing
  */
 
 void print_numbers(void)
 {
-	int i:
-
-	for (i =48; i <= 57; i++)
+	int x;
+	
+	for (x =0: x <= 0; x++)
 	{
-	_putchar(i);
+	_putchar(x + '0');
 	}
 	_putchar('\n');
 }
